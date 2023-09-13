@@ -26,7 +26,7 @@ public:
 
 int main() {
     Complex c1;
-    Complex c2(3.5, 2.0);
+    Complex c2(69.4201, 6969);
 
     cout << "Enter a complex number (real + imaginary i): ";
     cin >> c1;
